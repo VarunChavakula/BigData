@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="1_RoboMeLib">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/mobile/src/main/res/values/RoboMeLib.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
